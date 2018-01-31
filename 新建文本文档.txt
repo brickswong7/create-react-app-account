@@ -1,1 +1,7 @@
-µÚÁù½Ú¿Î
+npm install cross-env --save-dev
+
+
+http://www.mockapi.io/
+
+
+"start": "cross-env *** react-scripts start"
