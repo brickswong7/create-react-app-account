@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "date": "2018-01-31",
+    "title": "title 1",
+    "amount": 72
+  },
+  {
+    "id": "2",
+    "date": "2018-01-30",
+    "title": "title 2",
+    "amount": 33
+  },
+  {
+    "id": "3",
+    "date": "2018-01-29",
+    "title": "title 3",
+    "amount": 63
+  },
+  {
+    "id": "4",
+    "date": "2018-01-28",
+    "title": "title 4",
+    "amount": 43
+  },
+  {
+    "id": "5",
+    "date": "2018-01-27",
+    "title": "title 5",
+    "amount": 78
+  }
+]
